@@ -26,3 +26,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/NeevMhadgut/NeevMhadgut/snake-output/snake.svg" alt="Snake animation" />
 </p>
+### 📊 CodeForces Metrics
+
+#### Codeforces Activity
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=sanemerald&theme=tokyonight&&bg_color=0d1117&font=Space+Mono&&card_color=0d1117&)](https://codeforces.com/profile/sanemerald)
+<hr size="3">
