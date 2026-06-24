@@ -30,6 +30,13 @@
   <img src="https://img.shields.io/badge/HackerRank-0%20Star%20%E2%98%86-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank 0 Star" />
 </a>
 
+### 📊 Cybersecurity Metrics
+<a href="https://tryhackme.com/mhadgutneev" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-Apprentice%20%F0%9F%9B%A1-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Apprentice" />
+</a><br/>
+<a href="https://hackthebox.com/sanemerald" target="_blank">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-Beginner%20%E2%98%85-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box Beginner" />
+
 ### 📊 CodeForces Metrics
 
 #### Codeforces Activity
