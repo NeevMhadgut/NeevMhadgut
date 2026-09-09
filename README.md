@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Codeforces-Newbie-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Newbie" />
 </a><br/>
 <a href="https://leetcode.com/sanemerald" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-0%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/LeetCode-1%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" />
 </a><br/>
 <a href="https://www.codechef.com/users/sanemerald" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-1%20Star%20%E2%98%85-4b2a1a?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 1 Star" />
@@ -29,13 +29,6 @@
 <a href="https://hackerrank.com/sanemerald" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-0%20Star%20%E2%98%86-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank 0 Star" />
 </a>
-
-### 📊 Cybersecurity Metrics
-<a href="https://tryhackme.com/mhadgutneev" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-Apprentice%20%F0%9F%9B%A1-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Apprentice" />
-</a><br/>
-<a href="https://hackthebox.com/sanemerald" target="_blank">
-<img src="https://img.shields.io/badge/Hack%20The%20Box-Beginner%20%E2%98%85-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box Beginner" />
 
 ### 📊 CodeForces Metrics
 
@@ -60,17 +53,3 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </div>
-
----
-
-### 📈 GitHub Stats
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=neevmhadgut&show_icons=true&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&bg_color=0d1117&ring_color=2ecc71&hide_border=true" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevmhadgut&layout=compact&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&bg_color=0d1117&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
