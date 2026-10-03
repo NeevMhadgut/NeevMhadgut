@@ -21,14 +21,11 @@
   <img src="https://img.shields.io/badge/Codeforces-Newbie-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Newbie" />
 </a><br/>
 <a href="https://leetcode.com/sanemerald" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-1%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/LeetCode-6%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" />
 </a><br/>
 <a href="https://www.codechef.com/users/sanemerald" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-1%20Star%20%E2%98%85-4b2a1a?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 1 Star" />
 </a><br/>
-<a href="https://hackerrank.com/sanemerald" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-0%20Star%20%E2%98%86-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank 0 Star" />
-</a>
 
 ### 📊 CodeForces Metrics
 
